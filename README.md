@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi 👋, I'm Snehal Kute
 
-<!--
-**snehal-code66/snehal-code66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring DevOps & Cloud Engineer
 
-Here are some ideas to get you started:
+I'm passionate about **DevOps, Cloud Computing, Automation, and Infrastructure as Code**.
+Currently building my skills through hands-on projects and internships.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+* ☁️ **Cloud:** AWS
+* 🔧 **DevOps:** Git, GitHub, Docker, Terraform
+* 🐧 **OS:** Linux / Ubuntu
+* 💻 **Scripting:** Bash
+* 📦 **Version Control:** Git & GitHub
+* 🔄 **CI/CD:** Learning & Building
+
+---
+
+## 🚀 Projects
+
+### 🔹 Version Controlled DevOps Project
+
+* Git-based version control
+* Branching and merging
+* Repository management
+* Collaborative development workflow
+
+### 🔹 Terraform + Docker Project
+
+* Infrastructure as Code using Terraform
+* Docker containerization
+* Automated infrastructure provisioning
+
+### 🔹 AWS Cloud Practice
+
+* AWS services and cloud fundamentals
+* Hands-on deployment and configuration
+* Learning cloud infrastructure management
+
+---
+
+## 📚 Currently Learning
+
+* AWS Cloud
+* Terraform
+* Docker
+* CI/CD Pipelines
+* Linux
+* DevOps Practices
+
+---
+
+## 🎯 Career Goal
+
+To become a **skilled DevOps & Cloud Engineer** by continuously learning, building real-world projects, and automating infrastructure and deployment workflows.
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [www.linkedin.com/in/snehal-kute-133b21420
+
+]
+* 🐙 GitHub: [github.com/snehal-code66](https://github.com/snehal-code66)
+
+---
+
+### ⚡ Fun Fact
+
+> "Learning by building, improving by doing, and automating everything I can." 🚀
+
+⭐ Thanks for visiting my profile!
