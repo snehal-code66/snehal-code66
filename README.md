@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./github-profile-banner.png" alt="Snehal Kute - DevOps & Cloud Engineer">
+</div>
+
+
 # Hi 👋, I'm Snehal Kute
 
 ### 🚀 Aspiring DevOps & Cloud Engineer
